@@ -1,3 +1,16 @@
+---
+---
+---
+---
+
+This project is abandoned, if you want to take over it please send me a message on Twitter - [@alexbilbie](https://twitter.com/alexbilbie)
+
+---
+---
+---
+---
+
+
 # A PHP MongoDB query builder library
 
 ## Install via Packagist and Composer
