@@ -338,7 +338,7 @@ class Builder
     {
         if (is_array($wheres)) {
             foreach ($wheres as $where => $value) {
-                $this->wheres[$where] = $value;
+                $this->wheres[$where] = mysqli_real_escape_string($value);
             }
         } else {
             $this->wheres[$wheres] = $value;
